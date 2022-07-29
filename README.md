@@ -28,3 +28,6 @@ QnA Maker, Static Web Apps
 
 Other Azure Technologies :
 App Service
+
+
+![FRT](https://user-images.githubusercontent.com/95695853/181819218-7b4b142f-a05b-46f2-b3af-572b6cdffdda.jpeg)
