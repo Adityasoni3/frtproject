@@ -1,4 +1,4 @@
-# <a href="https://delightful-hill-01993e910.1.azurestaticapps.net">E-Commerce Website with FAQ Bot</a>
+# <a href="https://delightful-hill-01993e910.1.azurestaticapps.net">E-Commerce Website </a>
 
 This is E-commerce Front End website design
 
